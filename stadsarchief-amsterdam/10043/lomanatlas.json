@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://theberlage.github.io/iiif-manifests/stadsarchief-amsterdam/10043/2-lomanatlas.json",
+  "id": "https://theberlage.github.io/iiif-manifests/stadsarchief-amsterdam/10043/lomanatlas.json",
   "type": "Manifest",
   "label": {
     "en": [
